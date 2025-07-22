@@ -89,7 +89,7 @@
 </head>
 <body>
 
-  <button class="toggle-btn" onclick="toggleMode()"> Light or Dark Bruv</button>
+  <button class="toggle-btn" onclick="toggleMode()"> 🧔🏻‍♂️Light or Dark🧔🏿‍♂️</button>
 
   <div class="container">
     <div class="section">
